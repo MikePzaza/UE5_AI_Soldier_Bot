@@ -1,0 +1,12 @@
+# Unreal Engine — ไม่ต้อง commit
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+.vs/
+*.VC.db
+*.sln
+*.suo
+
+# เก็บเฉพาะ: Config/, Content/, Source/, *.uproject
